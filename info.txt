@@ -1,3 +1,4 @@
 Student: Piotr Marcińczak
 Numer: student06
 Specjalizacja: DevOps
+Zmiana testowa
